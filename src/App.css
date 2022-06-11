@@ -32,6 +32,7 @@ p{
   text-align: center;
 }
 .contenedor-principal{
+  max-width: 120rem;
   min-height: 60rem;
   display: flex;
   flex-wrap: wrap;
